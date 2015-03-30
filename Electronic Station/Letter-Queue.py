@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# -*- coding: utf-8 -*-
+>>>>>>> origin/master
 def letter_queue(commands):
     x=[]
     Str=""
@@ -11,8 +15,11 @@ def letter_queue(commands):
     for i in x:
         Str+=i
     return Str
+<<<<<<< HEAD
 
 
 
 
 print letter_queue(["PUSH A", "POP", "POP", "PUSH Z", "PUSH D", "PUSH O", "POP", "PUSH T"])
+=======
+>>>>>>> origin/master
